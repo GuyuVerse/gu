@@ -1,6 +1,7 @@
 [English](en.md) | [简体中文](readme.md)
 
 # 欢迎来到gulang
+[![Star History Chart](https://api.star-history.com/svg?repos=GuyuVerse/gu&type=Date)](https://star-history.com/#GuyuVerse/gu&Date)
 
 ## 概述
 
