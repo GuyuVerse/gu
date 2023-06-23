@@ -19,7 +19,7 @@ class gy():
         return(float(float_num))
     
     def gylang():
-        return("本项目为基于pyhton的为顾宇定制版,项目链接https://github.com/For_GY/GYlang")
+        return("本项目为基于pyhton的为顾宇定制版,项目链接:https://github.com/GuyuVerse/gu/")
     
     def printll(printll):
         print(str(str(printll) + " -by gylang\n"))
@@ -31,8 +31,8 @@ class gy():
             return("穷狗去死吧傻逼")
     
     def ask_wtf(ask_what:str):
-        wtf = input("顾宇正在拷打你，还不速速招来？ " + ask_what )
+        wtf = input("顾宇正在拷打你，还不速速招来? " + ask_what )
         if("idk" in wtf or "不知道" in wtf or "I don't know"in wtf or "我不到啊"in wtf):
-            return "草泥马"
+            return "草泥马! 你不知道?"
         else:
             return wtf
